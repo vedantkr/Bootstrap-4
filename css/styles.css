@@ -69,3 +69,17 @@ body{
     left: 0;
     min-height: 300px;
 }
+
+/*.Non-Smoking{
+    background-color: green; 
+    border: none;
+}
+#Non-Smoking:focus{
+    background-color: darkgreen; 
+    border: none;
+}
+
+.Smoking{
+    background-color: red;
+    border: none;
+}*/
