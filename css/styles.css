@@ -52,3 +52,15 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-content .modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+  .modal-content .modal-header h4 {
+    color: floralwhite;
+    /* I used h4 header tag in my document as well, hence the following statment*/ }
+  .modal-content .modal-header .close {
+    color: floralwhite; }
+
+.modal-content .modal-body {
+  background: #D1C4E9; }
